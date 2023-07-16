@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ppt-test-393016",
+  "private_key_id": "d030e794a31ff1951e50686450dea95f46007cbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2Vsd0Xe0WrZ/F\nja/OWmqlZj4yrH7ZFzsSs6c6bArDtjVorXwl/59ghnpGfYvcLA5mhzLJ0Z5w6Hnd\nTDMBuHsxHK2etHrvNtjREKCrEu72ycG80N+DfwOCZ3VDtYvqDDON1GSdPYMK9y4P\nu4F3VYfQMWqjGRImwC7MognFFgbPgixe16mKm4vrBjhtutH11o8uQMuciHi4tj/N\nq6DaTLU3jkECpY4kFNEAv0hv/aPd2dhzs9s38EEouLNjXFX4fnS5qR6hTSUMfVVL\n7q7e9umC6HFgl0Ri053xENUFkXyyi0cWAuop+48WNZWuSmRkLbATIvF6184YE1/0\nwlSXrJ33AgMBAAECggEATrQmY5QnQiKvVBZUTD26yqnXLwhFuG7OkMP66ry36MI9\nS3GWpNAxeviQztxiAicCED9LLNHOEe5Gq764RYXbptc6GcbNSXPjIlqK/0ys2Nk9\nRsLht2Cboy4E77TtL5kUp6OFyllCtvj6aNAGkfvZI4QxAzVPIGrTyIAot2lKh0Zu\nTZMzpaTA07/+DgW30pta9MhfePKT6Jp/PDJmfL+fzkU6NZFRCxdS5Op3ymM1MAfb\nHizdMtqFXY7jxRE77SFujRzxISMzB/xG2JGGTBPc/FOmYPrWddZUgF+hRppSVMVt\n0j7AdQe+eFdjSvfpMu5Uq+ayUVfxvla7SotRjY+wAQKBgQDdlpV2/z0fpp3ToVhU\njjXUluIUj0KnEhItiXijzXvFxHd5oNsPVCV0tnFJE1wZk+FMt/AfKxOUh0xZgcWE\n05STK8DWnXHPUYd4tlQVk3O7lqXxPRCKkFBsIT0x8C3GVKP+Res1W+lx7F9D3XNe\n2rr4end0nOlsPbM0OvLJJxYc0QKBgQDSp8+B9SOTuDzLL/hyLh1rrQ8u7mmcsvaI\ny0eGeDMjc1VBDtz4LyKi/CN1CZArIOAegJ2M2WOx6jeiGUpbAVFOBR2VEGo2EEBx\nPxWvnYUf4DxlBRunbVQv3mnrtwWono6lRK9Im5t+d0APekuLhS5N8nxM3dabkeaZ\neE2NiAigRwKBgQCGZj1Frc4fEmoL4IK41oCj7tg1bCcbOoS4BfecMpft/hoRNZVo\nmLsXLUlM72cfRGiUpcQIw5HetqmCaImq5MHq+dC+20QaYPLwLnaVl5fMobUIuub7\nhEijLQ326hx5fQDyyum8tYDEToABo6HEWJqq92zY2AtkUZAOD+sOQpzQ4QKBgEyz\n67vfPbgQ8pnteqJgpjfJyOiGyQ/Uni4LDp0o8T3sRdOtjMoVp5/+/Q4lkEgT7WdN\n35Akq8dhiCZO3SMr5KXq+O2JD5Nl8YEKvmO2kH2d0X/bD0m0Zl4Tty+r8bSHH1uQ\nGd7vQfwXgczg89b2hHi/XYFDmVwGERg6lMp/CN0LAoGAdYMKsZRG3Ehth1gxcKda\nIQC2veqTR72wU2XL8R9fpO/DHIf+NQ60E6RT4Bo6ewH4fdej+fpJJLIWKBkDkciU\nC/Hcaq4xDD+eGsg0nVxp5/GrXdWCdLTqJF48RB3BWjexuaRwhxg9Ly/YVP0CkahX\nglPVrPiSryz6CJwYuaEHjZM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ppt-857@ppt-test-393016.iam.gserviceaccount.com",
+  "client_id": "107833424956141093662",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ppt-857%40ppt-test-393016.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
